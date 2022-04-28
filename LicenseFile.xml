@@ -7,6 +7,10 @@
   <!-- This is a new license -->  
   <UserData Name="" NickName="" Paypal="UserPaypalEmail@gmail.com" AionServer="AionClassicKorea,AionDestiny,AionGameCoast,EuroAion,AionClassicChina,AionClassicTaiwan">
     <LicenceData ActivationData="2020-04-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-Z97 GAMING 5 (MS-7917)-BFEBFBFF000306C3-38C12D05-A2CB61CD8C1B-1819E13C3404" UniqueIdSha512="TVNJLVo5NyBHQU1JTkcgNSAoTVMtNzkxNyktQkZFQkZCRkYwMDAzMDZDMy0zOEMxMkQwNS1BMkNCNjFDRDhDMUItMTgxOUUxM0MzNDA0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>  
+  </UserData>
+  <!-- This is a new license --> 
+    <UserData Name="" NickName="" Paypal="stanolok@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-04-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-1812-BFEBFBFF000306C3-32B3FD62-448A5BF2F0FF" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xODEyLUJGRUJGQkZGMDAwMzA2QzMtMzJCM0ZENjItNDQ4QTVCRjJGMEZGLVMyMUhOWEJHNDI3NDIxRQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
