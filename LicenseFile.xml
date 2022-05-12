@@ -39,5 +39,9 @@
   <!-- This is a new license N08--> 
     <UserData Name="" NickName="" Paypal="asazami611@yahoo.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MAG B460M MORTAR (MS-7C82)-BFEBFBFF000A0653-F2F81BDC-C8E265FC4270" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NQUcgQjQ2ME0gTU9SVEFSIChNUy03QzgyKS1CRkVCRkJGRjAwMEEwNjUzLUYyRjgxQkRDLUM4RTI2NUZDNDI3MC0wMDI1XzM4RDVfMTFCM180REFCLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N09--> 
+    <UserData Name="" NickName="" Paypal="g.colazzo@next-tech.eu">
+    <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-N750JK-BFEBFBFF000306C3-302F93EE-7A79192CA785" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLU43NTBKSy1CRkVCRkJGRjAwMDMwNkMzLTMwMkY5M0VFLTdBNzkxOTJDQTc4NS01MDAyNkI3NzgzRTA0OUEw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
 </UserList>
