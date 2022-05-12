@@ -47,6 +47,10 @@
   <!-- This is a new license N10--> 
     <UserData Name="" NickName="" Paypal="jopan1974@gmail.com">
     <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="FUJITSU-FJNB223-BFEBFBFF000206A7-50C829EF-A088B4084368" UniqueIdSha512="RlVKSVRTVS1GSk5CMjIzLUJGRUJGQkZGMDAwMjA2QTctNTBDODI5RUYtQTA4OEI0MDg0MzY4LTU1QkYwNzk1MUI4QTAwMTg3MDkx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData> 
+  </UserData>
+  <!-- This is a new license N11--> 
+    <UserData Name="" NickName="" Paypal="mexol1x@hotmail.com">
+    <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550M AORUS ELITE-178BFBFF00A20F10-2E1B36E8-984827D131E2" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1ME0gQU9SVVMgRUxJVEUtMTc4QkZCRkYwMEEyMEYxMC0yRTFCMzZFOC05ODQ4MjdEMTMxRTItICAgICBXRC1XQ0FTWTMzNTg1Mzk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>  
   
 </UserList>
