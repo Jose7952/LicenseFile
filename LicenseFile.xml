@@ -19,5 +19,13 @@
   <!-- This is a new license N03--> 
     <UserData Name="" NickName="" Paypal="javcal89@gmail.com">
     <LicenceData ActivationData="2022-04-29 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B450M-A-178BFBFF00810F81-B2AC0F8E-04D9F53502CB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEI0NTBNLUEtMTc4QkZCRkYwMDgxMEY4MS1CMkFDMEY4RS0wNEQ5RjUzNTAyQ0ItNTAwMjZCNzY4M0I2MTM2NSAgICA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N04--> 
+    <UserData Name="" NickName="" Paypal="vnzldfo@gmail.com">
+    <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Inspur-Inspur Computer All in one PC-BFEBFBFF000306C3-5CEAC235-02208ED14B4B" UniqueIdSha512="SW5zcHVyLUluc3B1ciBDb21wdXRlciBBbGwgaW4gb25lIFBDLUJGRUJGQkZGMDAwMzA2QzMtNUNFQUMyMzUtMDIyMDhFRDE0QjRCLSAgICAgV0QtV0NDMVM1NTg0ODI4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N05--> 
+    <UserData Name="" NickName="" Paypal="nhodenem004@yahoo.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z590-V-BFEBFBFF000A0671-B6A50CC7-FC3497A12D40" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFo1OTAtVi1CRkVCRkJGRjAwMEEwNjcxLUI2QTUwQ0M3LUZDMzQ5N0ExMkQ0MC0gICAgICAgICAgICBaRkw0QUtZSg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData> 
 </UserList>
