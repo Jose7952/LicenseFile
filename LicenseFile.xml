@@ -43,5 +43,10 @@
   <!-- This is a new license N09--> 
     <UserData Name="" NickName="" Paypal="g.colazzo@next-tech.eu">
     <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-N750JK-BFEBFBFF000306C3-302F93EE-7A79192CA785" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLU43NTBKSy1CRkVCRkJGRjAwMDMwNkMzLTMwMkY5M0VFLTdBNzkxOTJDQTc4NS01MDAyNkI3NzgzRTA0OUEw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>  
+  </UserData>
+  <!-- This is a new license N10--> 
+    <UserData Name="" NickName="" Paypal="jopan1974@gmail.com">
+    <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="FUJITSU-FJNB223-BFEBFBFF000206A7-50C829EF-A088B4084368" UniqueIdSha512="RlVKSVRTVS1GSk5CMjIzLUJGRUJGQkZGMDAwMjA2QTctNTBDODI5RUYtQTA4OEI0MDg0MzY4LTU1QkYwNzk1MUI4QTAwMTg3MDkx" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData> 
+  
 </UserList>
