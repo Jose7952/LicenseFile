@@ -76,6 +76,10 @@
     <UserData Name="" NickName="" Paypal="s.mz.k1x26@gmail.com" AionServer="AionClassicJapan">
     <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z390-F GAMING-BFEBFBFF000906EC-34F98FA8-049226C07688" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaMzkwLUYgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUMtMzRGOThGQTgtMDQ5MjI2QzA3Njg4LTY0NzlfQTcyMl80Mzc1XzM3MzIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N18--> 
+    <UserData Name="" NickName="" Paypal="raksimi00@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B560M Pro4-BFEBFBFF000A0671-9476995E-A8A1596F1BB2" UniqueIdSha512="QVNSb2NrLUI1NjBNIFBybzQtQkZFQkZCRkYwMDBBMDY3MS05NDc2OTk1RS1BOEExNTk2RjFCQjItICAgICAgICAgICAgWlIxME5WRVg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
