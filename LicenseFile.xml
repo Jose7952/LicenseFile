@@ -67,6 +67,11 @@
   <!-- This is a new license N15--> 
     <UserData Name="" NickName="" Paypal="alsevendesign@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MPG Z490 GAMING PLUS (MS-7C75)-BFEBFBFF000A0655-921D27EC-2CF05DAEE186" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUEcgWjQ5MCBHQU1JTkcgUExVUyAoTVMtN0M3NSktQkZFQkZCRkYwMDBBMDY1NS05MjFEMjdFQy0yQ0YwNURBRUUxODYtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDkwMV9BNDBGLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
-  </UserData>  
+  </UserData>
+  <!-- This is a new license N16--> 
+    <UserData Name="" NickName="" Paypal="alicekan65@gmail.com">
+    <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME Z690-P D4-BFEBFBFF00090672-F4C63BE7-04421AEAE7E5" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIFo2OTAtUCBENC1CRkVCRkJGRjAwMDkwNjcyLUY0QzYzQkU3LTA0NDIxQUVBRTdFNS0wMDI1XzM4QjdfMTE1MF82QzgwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+
   
 </UserList>
