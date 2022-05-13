@@ -51,6 +51,14 @@
   <!-- This is a new license N11--> 
     <UserData Name="" NickName="" Paypal="mexol1x@hotmail.com">
     <LicenceData ActivationData="2022-05-12 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B550M AORUS ELITE-178BFBFF00A20F10-2E1B36E8-984827D131E2" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjU1ME0gQU9SVVMgRUxJVEUtMTc4QkZCRkYwMEEyMEYxMC0yRTFCMzZFOC05ODQ4MjdEMTMxRTItICAgICBXRC1XQ0FTWTMzNTg1Mzk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N12--> 
+    <UserData Name="" NickName="" Paypal="arkepaypal@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Intel Corporation-DH61BE-BFEBFBFF000206A7-20A9A1F4-4C72B942B7B9" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tREg2MUJFLUJGRUJGQkZGMDAwMjA2QTctMjBBOUExRjQtNEM3MkI5NDJCN0I5LUhCU0EyMDM0MDIwMDc1Mw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N13--> 
+    <UserData Name="" NickName="" Paypal="lic_aguilar@live.com.mx" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING B460-PRO (WI-FI)-BFEBFBFF000A0655-2EFF3FA7-D45D64494D08" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgQjQ2MC1QUk8gKFdJLUZJKS1CRkVCRkJGRjAwMEEwNjU1LTJFRkYzRkE3LUQ0NUQ2NDQ5NEQwOC0zMjRDXzMwMzlfMzIzOV8zMjQ4XzRDRTBfMDAxOF8zOTQ4XzQxNDcu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>  
   
 </UserList>
