@@ -84,6 +84,10 @@
     <UserData Name="" NickName="" Paypal="guerrerobom@gmail.com">
     <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Dell Inc.-0D54VK-BFEBFBFF000A0655-242975C1-70CD0D7F6494" UniqueIdSha512="RGVsbCBJbmMuLTBENTRWSy1CRkVCRkJGRjAwMEEwNjU1LTI0Mjk3NUMxLTcwQ0QwRDdGNjQ5NC0gICAgICAgIFdYNzJBMTFGSFZSMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N20--> 
+    <UserData Name="" NickName="" Paypal="Davidrosta31@gmail.com">
+    <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-3743-178BFBFF00A50F00-9851A003-F889D298A49B" UniqueIdSha512="TEVOT1ZPLTM3NDMtMTc4QkZCRkYwMEE1MEYwMC05ODUxQTAwMy1GODg5RDI5OEE0OUItMDAyNV8zODgzXzExQzVfNDM1Qi4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
