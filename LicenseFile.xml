@@ -104,6 +104,10 @@
     <UserData Name="" NickName="" Paypal="oswaldo_pisis@hotmail.com">
     <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME B360M-A-BFEBFBFF000906EA-728B9DE3-04D9F5327754" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEIzNjBNLUEtQkZFQkZCRkYwMDA5MDZFQS03MjhCOURFMy0wNEQ5RjUzMjc3NTQtICAgICAgICAgICAgNVZWQlJKOUQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N25--> 
+    <UserData Name="" NickName="" Paypal="yugihi12@hotmail.com">
+    <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-AB350 Pro4-178BFBFF00800F11-A43F8023-7085C251A897" UniqueIdSha512="QVNSb2NrLUFCMzUwIFBybzQtMTc4QkZCRkYwMDgwMEYxMS1BNDNGODAyMy03MDg1QzI1MUE4OTctICAgICAgICAgICAxOE5LVUw2QVM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
