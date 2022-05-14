@@ -92,6 +92,10 @@
     <UserData Name="" NickName="" Paypal="heitmann2506@yahoo.de">
     <LicenceData ActivationData="2022-05-13 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B450M MORTAR MAX (MS-7B89)-178BFBFF00870F10-8E8C6D7C-00D861DAC019" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CNDUwTSBNT1JUQVIgTUFYIChNUy03Qjg5KS0xNzhCRkJGRjAwODcwRjEwLThFOEM2RDdDLTAwRDg2MURBQzAxOS1TNENaTkYwTTMxNjc1NlA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N22--> 
+    <UserData Name="" NickName="" Paypal="vnzldfo@gmail.com">
+    <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ECS-H61H2-CM-BFEBFBFF000206A7-FCE881B0-809B203224A0" UniqueIdSha512="RUNTLUg2MUgyLUNNLUJGRUJGQkZGMDAwMjA2QTctRkNFODgxQjAtODA5QjIwMzIyNEEwLTIwMjEwOTAyMDEwMDAwMjg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
