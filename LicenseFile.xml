@@ -96,6 +96,10 @@
     <UserData Name="" NickName="" Paypal="vnzldfo@gmail.com">
     <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ECS-H61H2-CM-BFEBFBFF000206A7-FCE881B0-809B203224A0" UniqueIdSha512="RUNTLUg2MUgyLUNNLUJGRUJGQkZGMDAwMjA2QTctRkNFODgxQjAtODA5QjIwMzIyNEEwLTIwMjEwOTAyMDEwMDAwMjg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N23--> 
+    <UserData Name="" NickName="" Paypal="tartuga7@ya.ru" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel Corporation-S2600CP-BFEBFBFF000306E4-D42A4758-001E67B76D10" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tUzI2MDBDUC1CRkVCRkJGRjAwMDMwNkU0LUQ0MkE0NzU4LTAwMUU2N0I3NkQxMC1TM1k5TkIwSzgwMjE3NUQgICAgIA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
