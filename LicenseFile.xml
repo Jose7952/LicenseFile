@@ -148,5 +148,9 @@
     <UserData Name="" NickName="erazorp1new@outlook.com" Paypal="" AionServer="EuroAion">
     <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="MEDION-NH55RCQM-BFEBFBFF000906EA-04D825A7-24EE9AA4B8BB" UniqueIdSha512="TUVESU9OLU5INTVSQ1FNLUJGRUJGQkZGMDAwOTA2RUEtMDREODI1QTctMjRFRTlBQTRCOEJCLTAwMjVfMzg4NV85MTBDX0U0Mzgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N32--> 
+    <UserData Name="" NickName="" Paypal="endimeon_@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-B9201-BFEBFBFF000906EA-C72BB8C8-4C000EBD0008" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy1COTIwMS1CRkVCRkJGRjAwMDkwNkVBLUM3MkJCOEM4LTRDMDAwRUJEMDAwOC0gICAgICBKUjEwMFhCTko1VVU3RQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
