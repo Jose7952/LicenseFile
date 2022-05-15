@@ -112,5 +112,25 @@
     <UserData Name="" NickName="" Paypal="ggmariyes@gmail.com">
     <LicenceData ActivationData="2022-05-14 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00870F10-30A6CB87-F02F741ED995" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDg3MEYxMC0zMEE2Q0I4Ny1GMDJGNzQxRUQ5OTUtNjQ3OV9BNzM3XzMwMDFfMEE0QS4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 01--> 
+    <UserData Name="" NickName="howidi13@gmail.com" Paypal="">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="HP-8787-178BFBFF00860F01-66123483-A497B19E1AE7" UniqueIdSha512="SFAtODc4Ny0xNzhCRkJGRjAwODYwRjAxLTY2MTIzNDgzLUE0OTdCMTlFMUFFNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ0QV80NkIyXzIyOTEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N27--> 
+    <UserData Name="" NickName="" Paypal="guilhermepaypal1997@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A520M-E-178BFBFF00A50F00-16382A89-3C7C3F7B38E1" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEE1MjBNLUUtMTc4QkZCRkYwMEE1MEYwMC0xNjM4MkE4OS0zQzdDM0Y3QjM4RTEtICAgICBXRC1XWDYxQTE1UEVFMUY" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N28--> 
+    <UserData Name="" NickName="" Paypal="murriola1993@hotmail.com">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z590-E GAMING WIFI-BFEBFBFF000A0655-500436CD-FC34979E6306" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaNTkwLUUgR0FNSU5HIFdJRkktQkZFQkZCRkYwMDBBMDY1NS01MDA0MzZDRC1GQzM0OTc5RTYzMDYtRTgyM184RkE2X0JGNTNfMDAwMV8wMDFCXzQ0OEJfNDFFOF83RDI4Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N29--> 
+    <UserData Name="" NickName="" Paypal="jburggraaf@protonmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-X570 GAMING X-178BFBFF00870F10-1CB56EA5-B42E99F9206F" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWDU3MCBHQU1JTkcgWC0xNzhCRkJGRjAwODcwRjEwLTFDQjU2RUE1LUI0MkU5OUY5MjA2Ri0wMDAwXzAwMDBfMDAwMF8wMDAxXzAwQTBfNzUyMF9FMjk5X0NBRjgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N30--> 
+    <UserData Name="" NickName="" Paypal="eduardo.alfredo.johnson@gmail.com">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-16J5-BFEBFBFF000506E3-AE5295F8-D8CB8AF43509-{2d97a0c2-087f-4fb0-b0f5" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNko1LUJGRUJGQkZGMDAwNTA2RTMtQUU1Mjk1RjgtRDhDQjhBRjQzNTA5LXsyZDk3YTBjMi0wODdmLTRmYjAtYjBmNS0wNmE2MGM5Nzg4MWV9" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
