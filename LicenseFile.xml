@@ -152,5 +152,9 @@
     <UserData Name="" NickName="" Paypal="endimeon_@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-B9201-BFEBFBFF000906EA-C72BB8C8-4C000EBD0008" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy1COTIwMS1CRkVCRkJGRjAwMDkwNkVBLUM3MkJCOEM4LTRDMDAwRUJEMDAwOC0gICAgICBKUjEwMFhCTko1VVU3RQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 05--> 
+    <UserData Name="" NickName="ju.lio7thday@gmail.com" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Positivo Informatica SA-POS-EIH61CE-BFEBFBFF000306A9-FC1357B8-ECA86BB39F51" UniqueIdSha512="UG9zaXRpdm8gSW5mb3JtYXRpY2EgU0EtUE9TLUVJSDYxQ0UtQkZFQkZCRkYwMDAzMDZBOS1GQzEzNTdCOC1FQ0E4NkJCMzlGNTEtICAgICBXRC1XTUFZVVg0MTkwNTM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
