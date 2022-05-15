@@ -140,5 +140,13 @@
     <UserData Name="" NickName="" Paypal="quochuan_ag@yahoo.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z370 AORUS Ultra Gaming-CF-BFEBFBFF000906EA-7A1896E6-E0D55E466660" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM3MCBBT1JVUyBVbHRyYSBHYW1pbmctQ0YtQkZFQkZCRkYwMDA5MDZFQS03QTE4OTZFNi1FMEQ1NUU0NjY2NjAtICAgICAgICAgICAgWjFFN1EzSlE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 03--> 
+    <UserData Name="" NickName="erazorp1new@outlook.com" Paypal="">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="MEDION-NH55RCQM-BFEBFBFF000906EA-04D825A7-24EE9AA4B8BB" UniqueIdSha512="TUVESU9OLU5INTVSQ1FNLUJGRUJGQkZGMDAwOTA2RUEtMDREODI1QTctMjRFRTlBQTRCOEJCLTAwMjVfMzg4NV85MTBDX0U0Mzgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a trial 04--> 
+    <UserData Name="" NickName="erazorp1new@outlook.com" Paypal="" AionServer="EuroAion">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="MEDION-NH55RCQM-BFEBFBFF000906EA-04D825A7-24EE9AA4B8BB" UniqueIdSha512="TUVESU9OLU5INTVSQ1FNLUJGRUJGQkZGMDAwOTA2RUEtMDREODI1QTctMjRFRTlBQTRCOEJCLTAwMjVfMzg4NV85MTBDX0U0Mzgu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
