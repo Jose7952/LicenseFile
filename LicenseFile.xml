@@ -164,5 +164,9 @@
     <UserData Name="" NickName="panier.kevin64420@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-16 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z390-E GAMING-BFEBFBFF000906EC-5C7CBB95-049226BE82D8" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaMzkwLUUgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUMtNUM3Q0JCOTUtMDQ5MjI2QkU4MkQ4LTAwMjVfMzg1OV84MUI0XzQzQUMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a unique ID change, he had 1 month left of sub--> 
+    <UserData Name="" NickName="Morphine" Paypal="aether499@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-F8-BFEBFBFF000306F2-BE12C1BA-0AE0AFB39979" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1GOC1CRkVCRkJGRjAwMDMwNkYyLUJFMTJDMUJBLTBBRTBBRkIzOTk3OS0yMDIwMTEwNDAwMTY5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
