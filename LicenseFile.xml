@@ -168,5 +168,9 @@
     <UserData Name="" NickName="Morphine" Paypal="aether499@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HUANANZHI-X99-F8-BFEBFBFF000306F2-BE12C1BA-0AE0AFB39979" UniqueIdSha512="SFVBTkFOWkhJLVg5OS1GOC1CRkVCRkJGRjAwMDMwNkYyLUJFMTJDMUJBLTBBRTBBRkIzOTk3OS0yMDIwMTEwNDAwMTY5" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 07--> 
+    <UserData Name="" NickName="howidi13@gmail.com" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="HP-8787-178BFBFF00860F01-66123483-A497B19E1AE7" UniqueIdSha512="SFAtODc4Ny0xNzhCRkJGRjAwODYwRjAxLTY2MTIzNDgzLUE0OTdCMTlFMUFFNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ0QV80NkIyXzIyOTEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
