@@ -172,5 +172,9 @@
     <UserData Name="" NickName="howidi13@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-15 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="HP-8787-178BFBFF00860F01-66123483-A497B19E1AE7" UniqueIdSha512="SFAtODc4Ny0xNzhCRkJGRjAwODYwRjAxLTY2MTIzNDgzLUE0OTdCMTlFMUFFNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ0QV80NkIyXzIyOTEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 08--> 
+    <UserData Name="" NickName="drunkedgg@gmail.com" Paypal="">
+    <LicenceData ActivationData="2022-05-16 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF GAMING X570-PLUS-178BFBFF00870F10-8AED47A2-D45D6445E201" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBHQU1JTkcgWDU3MC1QTFVTLTE3OEJGQkZGMDA4NzBGMTAtOEFFRDQ3QTItRDQ1RDY0NDVFMjAxLTAwMjVfMzg1NF8wMUIwXzFBNUIu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
