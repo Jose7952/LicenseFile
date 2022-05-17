@@ -180,5 +180,9 @@
     <UserData Name="" NickName="" Paypal="tellos88@gmail.com">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="MSI-H170 GAMING M3 (MS-7978)-BFEBFBFF000506E3-D0815677-D8CB8AA3F5C5" UniqueIdSha512="TVNJLUgxNzAgR0FNSU5HIE0zIChNUy03OTc4KS1CRkVCRkJGRjAwMDUwNkUzLUQwODE1Njc3LUQ4Q0I4QUEzRjVDNS1TNVJSTkYxUjUwMzY3Nlk" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 09--> 
+    <UserData Name="" NickName="kanodin@gmail.com" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASRock-Z690 PG Riptide-BFEBFBFF00090672-A4890109-A8A15978A795" UniqueIdSha512="QVNSb2NrLVo2OTAgUEcgUmlwdGlkZS1CRkVCRkJGRjAwMDkwNjcyLUE0ODkwMTA5LUE4QTE1OTc4QTc5NS0xOTExXzMyNDVfNTIxNF8wMDAxXzAwMUJfNDQ0QV80NDg1X0Q2MEEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
