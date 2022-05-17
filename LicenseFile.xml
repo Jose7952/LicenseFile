@@ -184,5 +184,9 @@
     <UserData Name="" NickName="kanodin@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASRock-Z690 PG Riptide-BFEBFBFF00090672-A4890109-A8A15978A795" UniqueIdSha512="QVNSb2NrLVo2OTAgUEcgUmlwdGlkZS1CRkVCRkJGRjAwMDkwNjcyLUE0ODkwMTA5LUE4QTE1OTc4QTc5NS0xOTExXzMyNDVfNTIxNF8wMDAxXzAwMUJfNDQ0QV80NDg1X0Q2MEEu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N35--> 
+    <UserData Name="" NickName="" Paypal="liujunting91@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-SABERTOOTH Z77-BFEBFBFF000306A9-F4225824-984827DEF476" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNBQkVSVE9PVEggWjc3LUJGRUJGQkZGMDAwMzA2QTktRjQyMjU4MjQtOTg0ODI3REVGNDc2LTFTRzRFTkNCN0I3MTI4IFIgICAg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
