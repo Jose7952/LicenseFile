@@ -200,5 +200,9 @@
     <UserData Name="" NickName="czesiorek@poczta.onet.pl" Paypal="">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906EA-4C007FCD-E86A6452D260" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwOTA2RUEtNEMwMDdGQ0QtRTg2QTY0NTJEMjYwLTAwMjVfMzhEOV8xMUIxXzFENDcu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N38--> 
+    <UserData Name="" NickName="" Paypal="yracoma1@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z490 AORUS PRO AX-BFEBFBFF000A0655-125CC1C4-18C04D06F91F" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjQ5MCBBT1JVUyBQUk8gQVgtQkZFQkZCRkYwMDBBMDY1NS0xMjVDQzFDNC0xOEMwNEQwNkY5MUYtMDAwMF8wMDAwXzAxMDBfMDAwMF80Q0UwXzAwMThfREQ4Q185MDg0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
