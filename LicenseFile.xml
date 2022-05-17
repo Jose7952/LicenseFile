@@ -188,5 +188,9 @@
     <UserData Name="" NickName="" Paypal="liujunting91@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-SABERTOOTH Z77-BFEBFBFF000306A9-F4225824-984827DEF476" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVNBQkVSVE9PVEggWjc3LUJGRUJGQkZGMDAwMzA2QTktRjQyMjU4MjQtOTg0ODI3REVGNDc2LTFTRzRFTkNCN0I3MTI4IFIgICAg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N36--> 
+    <UserData Name="" NickName="" Paypal="NolanRocha24@yahoo.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASRock-B450M Steel Legend-178BFBFF00800F82-9A7818E5-984827C9B87B" UniqueIdSha512="QVNSb2NrLUI0NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODAwRjgyLTlBNzgxOEU1LTk4NDgyN0M5Qjg3Qi0xOTM5N1E0NTM2MDM" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
