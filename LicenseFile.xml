@@ -196,5 +196,9 @@
     <UserData Name="" NickName="" Paypal="tanzeelcl660@gmail.com">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00A50F00-482C0558-84A938A8AA75" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDBBNTBGMDAtNDgyQzA1NTgtODRBOTM4QThBQTc1LTAwMjVfMzg4Ml8xMUQyXzZCM0Qu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 10--> 
+    <UserData Name="" NickName="czesiorek@poczta.onet.pl" Paypal="">
+    <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-BFEBFBFF000906EA-4C007FCD-E86A6452D260" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LUJGRUJGQkZGMDAwOTA2RUEtNEMwMDdGQ0QtRTg2QTY0NTJEMjYwLTAwMjVfMzhEOV8xMUIxXzFENDcu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
