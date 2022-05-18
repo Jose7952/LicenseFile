@@ -220,5 +220,13 @@
     <UserData Name="" NickName="" Paypal="aided.rabbit29@gmail.com">
     <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z390 GAMING X-CF-BFEBFBFF000906EC-24D3055B-E0D55EE5EDD6" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM5MCBHQU1JTkcgWC1DRi1CRkVCRkJGRjAwMDkwNkVDLTI0RDMwNTVCLUUwRDU1RUU1RURENi0gICAgICAgICAgICBXMUQzNUVMQw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N43--> 
+    <UserData Name="" NickName="" Paypal="levilima.email@gmail.com">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-X470GTN-178BFBFF00A20F12-66B3B4AD-F4B52009C557" UniqueIdSha512="QklPU1RBUiBHcm91cC1YNDcwR1ROLTE3OEJGQkZGMDBBMjBGMTItNjZCM0I0QUQtRjRCNTIwMDlDNTU3LUFBMDAwMDQ2NTQ0Njc3NzAxMjE2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N44--> 
+    <UserData Name="" NickName="" Paypal="poutanam@yahoo.gr">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B360M PRO-VD (MS-7B53)-BFEBFBFF000906EA-32A82235-309C23DD8015" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzYwTSBQUk8tVkQgKE1TLTdCNTMpLUJGRUJGQkZGMDAwOTA2RUEtMzJBODIyMzUtMzA5QzIzREQ4MDE1LUFBMDAwMDAwMDAwMDAwMDAwNDQz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
