@@ -204,5 +204,21 @@
     <UserData Name="" NickName="" Paypal="yracoma1@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-17 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z490 AORUS PRO AX-BFEBFBFF000A0655-125CC1C4-18C04D06F91F" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjQ5MCBBT1JVUyBQUk8gQVgtQkZFQkZCRkYwMDBBMDY1NS0xMjVDQzFDNC0xOEMwNEQwNkY5MUYtMDAwMF8wMDAwXzAxMDBfMDAwMF80Q0UwXzAwMThfREQ4Q185MDg0Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N39--> 
+    <UserData Name="" NickName="" Paypal="jinbolino123@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-TUF H310M-PLUS GAMING/BR-BFEBFBFF000906EA-1D25E225-EEB38EC53742" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVRVRiBIMzEwTS1QTFVTIEdBTUlORy9CUi1CRkVCRkJGRjAwMDkwNkVBLTFEMjVFMjI1LUVFQjM4RUM1Mzc0Mi01MDAyNkI3NjgzMjM3MUND" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N40--> 
+    <UserData Name="" NickName="" Paypal="diego_0403@hotmail.com">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="INTEL Corporation-H61-BFEBFBFF000206A7-20606ED3-0AE0AFB502C0" UniqueIdSha512="SU5URUwgQ29ycG9yYXRpb24tSDYxLUJGRUJGQkZGMDAwMjA2QTctMjA2MDZFRDMtMEFFMEFGQjUwMkMwLTUwMDI2Qjc3ODNGQzgzMDE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N41--> 
+    <UserData Name="" NickName="" Paypal="elmax37@hotmail.com">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B365M PRO-VH (MS-7C31)-BFEBFBFF000906EA-2096E31C-00E04C681FBF" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzY1TSBQUk8tVkggKE1TLTdDMzEpLUJGRUJGQkZGMDAwOTA2RUEtMjA5NkUzMUMtMDBFMDRDNjgxRkJGLTdSVjAwSjNR" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N42--> 
+    <UserData Name="" NickName="" Paypal="aided.rabbit29@gmail.com">
+    <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-Z390 GAMING X-CF-BFEBFBFF000906EC-24D3055B-E0D55EE5EDD6" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tWjM5MCBHQU1JTkcgWC1DRi1CRkVCRkJGRjAwMDkwNkVDLTI0RDMwNTVCLUUwRDU1RUU1RURENi0gICAgICAgICAgICBXMUQzNUVMQw" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
