@@ -236,6 +236,10 @@
     <UserData Name="" NickName="xordqx@gmail.com" Paypal="">
     <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="ASRock-H410M-HDV-BFEBFBFF000A0653-E0254175-A8A1595F86EB" UniqueIdSha512="QVNSb2NrLUg0MTBNLUhEVi1CRkVCRkJGRjAwMEEwNjUzLUUwMjU0MTc1LUE4QTE1OTVGODZFQi1ITlJTSElRS0lXU0lHR0hSWlVaU0Q" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N46--> 
+    <UserData Name="" NickName="" Paypal="brianfanderson91@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B550M Steel Legend-178BFBFF00870F10-30635297-A87EEAE8AFB7" UniqueIdSha512="QVNSb2NrLUI1NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLTMwNjM1Mjk3LUE4N0VFQUU4QUZCNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80OUYxXzhDNkQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
