@@ -228,5 +228,10 @@
     <UserData Name="" NickName="" Paypal="poutanam@yahoo.gr">
     <LicenceData ActivationData="2022-05-18 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-B360M PRO-VD (MS-7B53)-BFEBFBFF000906EA-32A82235-309C23DD8015" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1CMzYwTSBQUk8tVkQgKE1TLTdCNTMpLUJGRUJGQkZGMDAwOTA2RUEtMzJBODIyMzUtMzA5QzIzREQ4MDE1LUFBMDAwMDAwMDAwMDAwMDAwNDQz" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N45--> 
+    <UserData Name="" NickName="" Paypal="guilhermepaypal1997@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME H410M-E-BFEBFBFF000A0653-C649C32A-3C7C3F3B92C4" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEg0MTBNLUUtQkZFQkZCRkYwMDBBMDY1My1DNjQ5QzMyQS0zQzdDM0YzQjkyQzQtMjA0NTg1ODA1OTcy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+
   
 </UserList>
