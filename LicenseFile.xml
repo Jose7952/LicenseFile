@@ -248,5 +248,9 @@
     <UserData Name="" NickName="pecomassinapro@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MEG Z390 ACE (MS-7B12)-BFEBFBFF000906EC-7EAF6C97-48A4725EFE11" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NRUcgWjM5MCBBQ0UgKE1TLTdCMTIpLUJGRUJGQkZGMDAwOTA2RUMtN0VBRjZDOTctNDhBNDcyNUVGRTExLVMzWjhOQjFLQjU1NjE2Tg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 13--> 
+    <UserData Name="" NickName="thallesalexis@gmail.com" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Dell Inc.-0YK2K8-BFEBFBFF000806EA-A6488F9E-5CBAEFFF83B5" UniqueIdSha512="RGVsbCBJbmMuLTBZSzJLOC1CRkVCRkJGRjAwMDgwNkVBLUE2NDg4RjlFLTVDQkFFRkZGODNCNS05RzEwOTAyMDAwMTIy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
