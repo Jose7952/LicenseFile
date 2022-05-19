@@ -240,6 +240,9 @@
     <UserData Name="" NickName="" Paypal="brianfanderson91@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASRock-B550M Steel Legend-178BFBFF00870F10-30635297-A87EEAE8AFB7" UniqueIdSha512="QVNSb2NrLUI1NTBNIFN0ZWVsIExlZ2VuZC0xNzhCRkJGRjAwODcwRjEwLTMwNjM1Mjk3LUE4N0VFQUU4QUZCNy1FODIzXzhGQTZfQkY1M18wMDAxXzAwMUJfNDQ4Ql80OUYxXzhDNkQu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-
+  <!-- This is a new license N47--> 
+    <UserData Name="" NickName="" Paypal="262327607@qq.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-078BFBFF00A20F10-98F6C5DA-000C299CD0B0" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMDc4QkZCRkYwMEEyMEYxMC05OEY2QzVEQS0wMDBDMjk5Q0QwQjAtVk1XYXJlIE5WTUVfMDAwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
