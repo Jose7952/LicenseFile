@@ -276,5 +276,9 @@
     <UserData Name="" NickName="" Paypal="ryusekai36@gmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="Gigabyte Technology Co., Ltd.-B450M GAMING-178BFBFF00800F82-32BE22D6-B42E99E29757" UniqueIdSha512="R2lnYWJ5dGUgVGVjaG5vbG9neSBDby4sIEx0ZC4tQjQ1ME0gR0FNSU5HLTE3OEJGQkZGMDA4MDBGODItMzJCRTIyRDYtQjQyRTk5RTI5NzU3LTJLMDkyMDA2Mzg5MSAgICAgICAgXzAwMDAwMDAxLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N54--> 
+    <UserData Name="" NickName="" Paypal="alexxoy@Hotmail.gr" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK MAX (MS-7C02)-178BFBFF00870F10-AC4FC204-1CBFCE390FDC" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgTUFYIChNUy03QzAyKS0xNzhCRkJGRjAwODcwRjEwLUFDNEZDMjA0LTFDQkZDRTM5MEZEQy0wMDI1XzM4NTlfOTFCMV8yRUIwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
