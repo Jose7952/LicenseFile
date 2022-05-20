@@ -252,5 +252,25 @@
     <UserData Name="" NickName="thallesalexis@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-19 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Dell Inc.-0YK2K8-BFEBFBFF000806EA-A6488F9E-5CBAEFFF83B5" UniqueIdSha512="RGVsbCBJbmMuLTBZSzJLOC1CRkVCRkJGRjAwMDgwNkVBLUE2NDg4RjlFLTVDQkFFRkZGODNCNS05RzEwOTAyMDAwMTIy" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N48--> 
+    <UserData Name="" NickName="" Paypal="panier.kevin64420@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z390-E GAMING-BFEBFBFF000906EC-5C7CBB95-049226BE82D8" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaMzkwLUUgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUMtNUM3Q0JCOTUtMDQ5MjI2QkU4MkQ4LTAwMjVfMzg1OV84MUI0XzQzQUMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N49--> 
+    <UserData Name="" NickName="" Paypal="depao.e20@gmail.com">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-PRIME A320M-K-178BFBFF00810F10-2CA17AEE-40B076603FF1" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVBSSU1FIEEzMjBNLUstMTc4QkZCRkYwMDgxMEYxMC0yQ0ExN0FFRS00MEIwNzY2MDNGRjEtICAgICBXRC1XQ0M2WTZZQzdFUDg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N50--> 
+    <UserData Name="" NickName="" Paypal="depao.e20@gmail.com">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Hewlett-Packard-18E7-BFEBFBFF000306C3-4CEA71ED-8CDCD44C275F" UniqueIdSha512="SGV3bGV0dC1QYWNrYXJkLTE4RTctQkZFQkZCRkYwMDAzMDZDMy00Q0VBNzFFRC04Q0RDRDQ0QzI3NUYtICAgICAgICAgICAgWjZFQjFCRFQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N51--> 
+    <UserData Name="" NickName="" Paypal="tirintino-amedeo@hotmail.com">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="HP-87AE-BFEBFBFF000A0652-8258BB14-646C800327EB" UniqueIdSha512="SFAtODdBRS1CRkVCRkJGRjAwMEEwNjUyLTgyNThCQjE0LTY0NkM4MDAzMjdFQi1BQ0U0XzJFMDBfMUEwRV84QzRDLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N52, Paid via Facebook--> 
+    <UserData Name="" NickName="invoicetrackingfb@gmail.com" Paypal="yankee389@gmail.com">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX Z490-E GAMING-BFEBFBFF000A0655-F2982863-F02F7417CA47" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBaNDkwLUUgR0FNSU5HLUJGRUJGQkZGMDAwQTA2NTUtRjI5ODI4NjMtRjAyRjc0MTdDQTQ3LVZvbHVtZTE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
