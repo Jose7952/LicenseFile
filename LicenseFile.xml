@@ -288,5 +288,9 @@
     <UserData Name="" NickName="trollfury91220@gmail.com" Paypal="" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00810F81-2EF83C0F-D8F3BCDAA36F" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDA4MTBGODEtMkVGODNDMEYtRDhGM0JDREFBMzZGLTAwQTBfNzUwMV8yRDE4X0NFOTMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a trial 15 for Funpay user Pu4i9laz--> 
+    <UserData Name="" NickName="Pu4i9laz" Paypal="" AionServer="AionDestiny">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-16Q4-BFEBFBFF000906EA-72004043-287FCF1213EE" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNlE0LUJGRUJGQkZGMDAwOTA2RUEtNzIwMDQwNDMtMjg3RkNGMTIxM0VFLTEzNTI2MjEwNDIzMDYwOQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
