@@ -280,5 +280,13 @@
     <UserData Name="" NickName="" Paypal="alexxoy@Hotmail.gr" AionServer="AionClassic">
     <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd-B450 TOMAHAWK MAX (MS-7C02)-178BFBFF00870F10-AC4FC204-1CBFCE390FDC" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLUI0NTAgVE9NQUhBV0sgTUFYIChNUy03QzAyKS0xNzhCRkJGRjAwODcwRjEwLUFDNEZDMjA0LTFDQkZDRTM5MEZEQy0wMDI1XzM4NTlfOTFCMV8yRUIwLg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a new license N55--> 
+    <UserData Name="" NickName="" Paypal="kitozzbns@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="91" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-ROG STRIX B360-F GAMING-BFEBFBFF000906EA-E4A09C15-1831BFCB06AD" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVJPRyBTVFJJWCBCMzYwLUYgR0FNSU5HLUJGRUJGQkZGMDAwOTA2RUEtRTRBMDlDMTUtMTgzMUJGQ0IwNkFELSAgICAgV0QtV01BWVVQNDE2NjQ0" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a trial 14--> 
+    <UserData Name="" NickName="trollfury91220@gmail.com" Paypal="" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-05-20 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="LENOVO-LNVNB161216-178BFBFF00810F81-2EF83C0F-D8F3BCDAA36F" UniqueIdSha512="TEVOT1ZPLUxOVk5CMTYxMjE2LTE3OEJGQkZGMDA4MTBGODEtMkVGODNDMEYtRDhGM0JDREFBMzZGLTAwQTBfNzUwMV8yRDE4X0NFOTMu" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
