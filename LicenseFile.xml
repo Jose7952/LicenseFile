@@ -296,5 +296,9 @@
     <UserData Name="" NickName="" Paypal="eduardo.alfredo.johnson@gmail.com">
     <LicenceData ActivationData="2022-06-05 14:40:52,531" LicenseDurationDay="12" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MS-1581-BFEBFBFF000806D1-1C0B4C6E-D8BBC1A879B1-{2d97a0c2-087f-4fb0-b0f5" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NUy0xNTgxLUJGRUJGQkZGMDAwODA2RDEtMUMwQjRDNkUtRDhCQkMxQTg3OUIxLXsyZDk3YTBjMi0wODdmLTRmYjAtYjBmNS0wNmE2MGM5Nzg4MWV9" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a unique ID change attempt N1--> 
+    <UserData Name="" NickName="" Paypal="thallesalexis@gmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-06-27 14:40:52,531" LicenseDurationDay="58" IgnoreMacAddress="true" UniqueId="MACHINIST-B75 PRO-BFEBFBFF000306A9-8A65C11D-2A206F031D5B" UniqueIdSha512="TUFDSElOSVNULUI3NSBQUk8tQkZFQkZCRkYwMDAzMDZBOS04QTY1QzExRC0yQTIwNkYwMzFENUItOTExMDkwMTkwMDE3NQ" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
   
 </UserList>
