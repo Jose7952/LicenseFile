@@ -300,6 +300,10 @@
     <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-07-06 14:40:52,531" LicenseDurationDay="2" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000906EA-682F1BA7-000C29195042" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDA5MDZFQS02ODJGMUJBNy0wMDBDMjkxOTUwNDItMDAwMDAwMDAwMDAwMDAwMDAwMDE" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This is a small sub for my VM to test the stuck bug Portuguese windows--> 
+    <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionClassic">
+    <LicenceData ActivationData="2022-07-06 14:40:52,531" LicenseDurationDay="5" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000906EA-BA024936-000C29195042" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDA5MDZFQS1CQTAyNDkzNi0wMDBDMjkxOTUwNDItVk1XYXJlIE5WTUVfMDAwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
 
   
 </UserList>
