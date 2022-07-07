@@ -304,6 +304,17 @@
     <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-07-06 14:40:52,531" LicenseDurationDay="5" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000906EA-BA024936-000C29195042" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDA5MDZFQS1CQTAyNDkzNi0wMDBDMjkxOTUwNDItVk1XYXJlIE5WTUVfMDAwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
-
+  <!-- This is a trial 16--> 
+    <UserData Name="" NickName="" Paypal="nikolaosana21@gmail.com">
+    <LicenceData ActivationData="2022-07-07 14:40:52,531" LicenseDurationDay="4" IgnoreMacAddress="true" UniqueId="HP-8433-178BFBFF00810F10-EC34838B-DCA26618D439" UniqueIdSha512="SFAtODQzMy0xNzhCRkJGRjAwODEwRjEwLUVDMzQ4MzhCLURDQTI2NjE4RDQzOS1BQ0U0XzJFODFfNzAyNF83Q0Y3Lg" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N56--> 
+    <UserData Name="" NickName="" Paypal="qatar007@msn.com">
+    <LicenceData ActivationData="2022-07-07 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="Micro-Star International Co., Ltd.-MEG Z590 GODLIKE (MS-7D03)-BFEBFBFF000A0671-D6027661-D8BBC11746CF" UniqueIdSha512="TWljcm8tU3RhciBJbnRlcm5hdGlvbmFsIENvLiwgTHRkLi1NRUcgWjU5MCBHT0RMSUtFIChNUy03RDAzKS1CRkVCRkJGRjAwMEEwNjcxLUQ2MDI3NjYxLUQ4QkJDMTE3NDZDRi1TNENaTkYwTjI2NTMwN1A" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
+  <!-- This is a new license N57--> 
+    <UserData Name="" NickName="" Paypal="info.tatsukishibata@gmail.com" AionServer="AionClassicJapan">
+    <LicenceData ActivationData="2022-07-07 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="ASUSTeK COMPUTER INC.-P8Z77-V DELUXE-BFEBFBFF000306A9-740AB210-C86000CA65DB" UniqueIdSha512="QVNVU1RlSyBDT01QVVRFUiBJTkMuLVA4Wjc3LVYgREVMVVhFLUJGRUJGQkZGMDAwMzA2QTktNzQwQUIyMTAtQzg2MDAwQ0E2NURCLVMxWEdKOTBaNTE2NTg4" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>  
   
 </UserList>
