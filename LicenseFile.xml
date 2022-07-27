@@ -4,5 +4,9 @@
     <UserData Name="" NickName="" Paypal="Jose7952@hotmail.com" AionServer="AionClassic">
     <LicenceData ActivationData="2022-07-06 14:40:52,531" LicenseDurationDay="5" IgnoreMacAddress="true" UniqueId="Intel Corporation-440BX Desktop Reference Platform-1F8BFBFF000906EA-BA024936-000C29195042" UniqueIdSha512="SW50ZWwgQ29ycG9yYXRpb24tNDQwQlggRGVza3RvcCBSZWZlcmVuY2UgUGxhdGZvcm0tMUY4QkZCRkYwMDA5MDZFQS1CQTAyNDkzNi0wMDBDMjkxOTUwNDItVk1XYXJlIE5WTUVfMDAwMA" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
   </UserData>
+  <!-- This a subscription activation 01--> 
+    <UserData Name="" NickName="" Paypal="levilima.email@gmail.com">
+    <LicenceData ActivationData="2022-07-27 14:40:52,531" LicenseDurationDay="31" IgnoreMacAddress="true" UniqueId="BIOSTAR Group-X470GTN-178BFBFF00A20F12-B8A68E54-F4B52009C557" UniqueIdSha512="QklPU1RBUiBHcm91cC1YNDcwR1ROLTE3OEJGQkZGMDBBMjBGMTItQjhBNjhFNTQtRjRCNTIwMDlDNTU3LUFBMDAwMDQ2NTQ0Njc3NzAxMjE2" AuthorizedLanguage="Chinese,Korean,Japanese" LicenseType="Advanced"></LicenceData>
+  </UserData>
  
 </UserList>
